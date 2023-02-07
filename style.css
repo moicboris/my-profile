@@ -1,0 +1,44 @@
+@import url("components/card.css");
+@import url("components/banner.css");
+@import url("components/images.css");
+@import url("components/paragraph.css");
+
+h1{
+  color: rgb(0, 0, 0);
+  font-size: 45px;
+  font-family: 'Sofia Sans Extra Condensed', sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+h2{
+  color: rgb(0, 0, 0);
+  font-size: 35px;
+  font-family: 'Sofia Sans Extra Condensed', sans-serif;
+  font-weight: bold;
+}
+
+h3{
+  color: rgb(0, 0, 0);
+  font-size: 25px;
+  font-family: 'Sofia Sans Extra Condensed', sans-serif;
+  font-weight: bold;
+}
+
+
+
+body{
+  font-family: 'Sofia Sans Extra Condensed', sans-serif;
+  color: rgb(0, 0, 0);
+  background-color: #D7CDFF;
+  font-size: 15px;
+}
+
+a{
+  color: rgb(0, 0, 0);
+  text-decoration-color:
+}
+
+
+
+
